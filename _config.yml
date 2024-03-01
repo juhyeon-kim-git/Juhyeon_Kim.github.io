@@ -24,13 +24,13 @@ footer:
     - name: Email
       value: 1 Gwanak-ro (bldg# 942, 3rd fl.), Gwanak-gu, Seoul, 08826, South Korea
   follow:
-    #- name: Twitter
-    #  link: http://twitter.com/YourTwitterUsername
-    #  username: "@YourTwitterUsername"
+    - name: Twitter
+      link: https://twitter.com/Ju_Hyeon__Kim
+      username: "@Juhyeon Kim"
 #     - name: Facebook
 #       link: http://facebook.com/im.yesong/
     - name: LinkedIn
-      link: http://www.linkedin.com/in/yesongchoe
+      link: https://www.linkedin.com/in/juhyeon-kim-101227264/
     - name: GitHub
       link: https://github.com/lovelyesong
     #- name: Dribbble
